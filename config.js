@@ -52,7 +52,7 @@ DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ALONG*",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/yv8zy4.jpg",
 // add img for alive msg
-LIVE_MSG: process.env.LIVE_MSG || "> 's T100^607T708X",
+LIVE_MSG: process.env.LIVE_MSG || "ALONG",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
